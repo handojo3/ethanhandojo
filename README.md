@@ -17,7 +17,7 @@
 ## ⚡ Skills
 - **Programming Languages:** 🐍 Python, ☕ Java, 💻 C++, 🌐 JavaScript  
 - **Frontend:** 🎨 React, React Native, Angular, Next.js  
-- **Backend:** 🌟 Node.js, Express  
+- **Backend:** 🌟 Node.js, Express, Spring Boot  
 - **Databases:** 📊 MongoDB, Cassandra, MySQL 
 - **Cloud Services:** ☁️ AWS, Heroku, Azure
 - **Tools:** 🎛️ Figma, Git  
